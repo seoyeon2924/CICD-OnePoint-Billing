@@ -10,7 +10,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "Billing_table")
-public class Billing { 
+public class Billing {
 
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)

@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "one-point"
+    _PROJECT_NAME: "one-point/billing"
     _NAME: "billing"
 phases:
   install:
